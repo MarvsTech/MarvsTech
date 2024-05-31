@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating the projects that could help me grow as a developer
 - 🌱 I’m currently learning any programming language that is very demand
 - 💞️ I’m looking to collaborate on any projects available
-- 📫 How to reach me via email marvinramos.nutnull@gmail.com
+- 📫 How to reach me via email marvinramos.nutnull@gmail.com and you can also see my personal project in my personal github account https://github.com/Crispkreme
 
 <!---
 MarvsTech/MarvsTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
